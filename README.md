@@ -1,8 +1,30 @@
-## Welcome to GitHub Pages
+## Js Digital Resume
 
 You can use the [editor on GitHub](https://github.com/CAshad0w/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+14 years of cybersecurity experience comprised of 11 years of network operations and 5 years incident respons experience.
+    
+EESXi and Azure Virtual Environments, Cisco networking, PaloAlto Firewalls, Linux RedHat, Microsoft Server 2019, 
+
+1. Governance, Risk, and Compliance
+  -
+2. Cybersecurity Engineering
+  - Advise on secure configuration of network and host devices using DISA STIGs and CIS controls
+3. Continuous Monitoring and Network Security
+
+4. Vulnerability Scanning and Penetration Testing
+  - Tenable Nessus vulnerability scans
+  - Passive vulnerability scanning
+  - 
+5. Security Awareness and Training
+
+
+
+
+    Do you match the requirements of the job position being advertised?
+
 
 ### Markdown
 
