@@ -49,4 +49,4 @@ Syntax highlighted code block
 
 ### Contact
 
-Contact [phone](123456789) or [contact me](https://support.github.com/contact) and we’ll help you sort it out.
+Contact me by [phone](123456789) or [email](https://support.github.com/contact).
