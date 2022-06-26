@@ -8,22 +8,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     
 EESXi and Azure Virtual Environments, Cisco networking, PaloAlto Firewalls, Linux RedHat, Microsoft Server 2019, 
 
-1. Governance, Risk, and Compliance
+###1. Governance, Risk, and Compliance
   -
-2. Cybersecurity Engineering
+###2. Cybersecurity Engineering
   - Advise on secure configuration of network and host devices using DISA STIGs and CIS controls
-3. Continuous Monitoring and Network Security
+###3. Continuous Monitoring and Network Security
 
-4. Vulnerability Scanning and Penetration Testing
+###4. Vulnerability Scanning and Penetration Testing
   - Tenable Nessus vulnerability scans
   - Passive vulnerability scanning
   - 
-5. Security Awareness and Training
-
-
-
-
-    Do you match the requirements of the job position being advertised?
+###5. Security Awareness and Training
 
 
 ### Markdown
