@@ -4,7 +4,7 @@
 
 ## Defensive Cyber Experience
 
-## Cyber Defense Analyst
+### Cyber Defense Analyst
 
 14 years of cybersecurity experience comprised of 10 years of network operations security and 4 years Continuous Monitoring and Incident Response.
     
@@ -12,7 +12,7 @@
 
 ## Cybersecurity Experience 
 
-## Infrastructure Support
+### Infrastructure Support
 - Tech Used: Tenable NESSUS, EESXi and Azure Virtual Environments, Cisco, PanOS/Palo Alto Firewall, UNIX/RHEL, Microsoft Server 2019 and Workstations, McAfee ESM, Endgame
 
 ### 1. Governance, Risk, and Compliance
@@ -32,9 +32,6 @@
 ## Education
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
