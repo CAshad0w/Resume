@@ -1,16 +1,19 @@
-## Js Digital Resume
+# Js Digital Resume
 
-14 years of cybersecurity experience comprised of 11 years of network operations and 5 years incident respons experience.
+[phone](123456789) / [email](https://support.github.com/contact) / [GitHub]() / [twitter]()
+
+## Defensive Cyber Experience
+
+## Cyber Defense Analyst
+
+14 years of cybersecurity experience comprised of 10 years of network operations security and 4 years Continuous Monitoring and Incident Response.
     
-EESXi and Azure Virtual Environments
-Cisco networking
-PanOS/Palo Alto Firewall
-UNIX/RHEL
-Microsoft Server 2019 and Workstations
-McAfee ESM
-SPLUNK
-Endgame
+- Tech Used: McAfee ESM, Elastic, 
 
+## Cybersecurity Experience 
+
+## Infrastructure Support
+- Tech Used: Tenable NESSUS, EESXi and Azure Virtual Environments, Cisco, PanOS/Palo Alto Firewall, UNIX/RHEL, Microsoft Server 2019 and Workstations, McAfee ESM, Endgame
 
 ### 1. Governance, Risk, and Compliance
   - NIST 800-53
@@ -23,6 +26,10 @@ Endgame
   - Passive vulnerability scanning
   - 
 ### 5. Security Awareness and Training
+
+## Projects
+
+## Education
 
 
 ### Markdown
